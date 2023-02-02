@@ -14,7 +14,7 @@ public class Post {
     @NotBlank
     @Column
     private String title;
-    @Lob
+    @Lob // to store as large object
     @Column
     @NotEmpty
     private String content;

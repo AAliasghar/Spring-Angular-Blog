@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springangularblog" target="17" />
+      <module name="springangularblog" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
